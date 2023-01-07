@@ -1,0 +1,12 @@
+body {
+  background-color: #14171a;
+}
+
+.h-10 {
+  height: 10rem;
+}
+
+#main-logo {
+  width: 64px;
+  height: auto;
+}
