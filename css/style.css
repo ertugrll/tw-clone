@@ -10,3 +10,34 @@ body {
   width: 64px;
   height: auto;
 }
+
+.tw-bg {
+  background-color: #14171a;
+}
+
+.tw-lg {
+  color: #aab8c2;
+}
+
+.tw-wh {
+  color: #f5f8fa;
+}
+
+.text-underline-hover {
+  text-decoration: none;
+}
+
+.text-underline-hover:hover {
+  text-decoration: underline;
+}
+
+.anchor-unstyled {
+  color: inherit;
+  text-decoration: inherit;
+}
+
+.hover-rounded:hover {
+  background-color: rgb(29, 155, 240);
+  border-radius: 40%;
+  color: rgb(29, 155, 240);
+}
